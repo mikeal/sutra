@@ -1,0 +1,17 @@
+{
+  "name": "sutra",
+  "version": "1.0.0",
+  "description": "Sutra Transmission",
+  "type": "module",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Vajra",
+  "dependencies": {
+    "arg": "^5.0.2",
+    "glob": "^10.3.4"
+  }
+}
