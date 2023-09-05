@@ -1,8 +1,3 @@
-{ first: '弟子品 第三', second: 'THE DISCIPLES' }
-{
-  first: '[爾時長者維摩詰，自念：「寢疾于床，世尊大慈，寧不垂愍？」',
-  second: 'At that time, the elder Vimalakīrti thought to himself: "I am lying here sick in bed. Why does the World-Honored One in his great compassion not show concern for me?"'
-}
 >>> 佛道品第八
 <<< THE WAY OF THE BUDDHA
 >>> 爾時文殊師利問維摩詰言：「菩薩云何通達佛道？」

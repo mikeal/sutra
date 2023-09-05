@@ -61,7 +61,6 @@ const parseFile = file => {
 		let i = 0
 		while (i < to_flip.length) {
 			const [ first, second ] = to_flip.slice(i, i+2)
-			console.log({ first, second })
 			if (first === undefined || second === undefined) throw new Error('Parse Error')
 			if (is_chinese(first)) {
 				console.error('chinese is being flipped, disabling')
